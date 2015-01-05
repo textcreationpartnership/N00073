@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000116_0000_0FA029AEF8D9E8C8"/>
-            <pb facs="tcp:000116_0001_0FA029AFA36ECD00" rendition="simple:additions"/>
+            <pb facs="unknown:000116_0000_0FA029AEF8D9E8C8"/>
+            <pb facs="unknown:000116_0001_0FA029AFA36ECD00"
+                rendition="simple:additions"/>
             <p>PRECEPTS FOR CHRISTIAN PRACTICE: Or, the Rule of the New CREATURE: Containing Duties to be daily ob<g ref="char:EOLhyphen"/>served by every Believer.</p>
             <q>
                <bibl>
@@ -134,7 +135,8 @@
             </p>
          </div>
          <div type="duties">
-            <pb facs="tcp:000116_0002_0FA029B6C7D7C448" rendition="simple:additions"/>
+            <pb facs="unknown:000116_0002_0FA029B6C7D7C448"
+                rendition="simple:additions"/>
             <head>THE heads of the Ten DUTIES</head>
             <div n="1" type="duty">
                <head>The first Duty.</head>
@@ -144,7 +146,7 @@
             <div n="2" type="duty">
                <head>The second Duty.</head>
                <p>Get your union with Christ, and your
-<pb facs="tcp:000116_0003_0FA029B74EBB9F28"/>
+<pb facs="unknown:000116_0003_0FA029B74EBB9F28"/>
 interest in him, cleared and confirmed to you <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>aily more and more, that you are a branch in his Vine, and a member in his Body.</p>
@@ -177,7 +179,7 @@ interest in him, cleared and confirmed to you <gap reason="illegible" resp="#PDC
             <div n="6" type="duty">
                <head>The sixth Duty.</head>
                <p>Get your hearts strongly fixed on God by
-<pb facs="tcp:000116_0004_0FA029B7F5DC73C0"/>
+<pb facs="unknown:000116_0004_0FA029B7F5DC73C0"/>
 trusting in him, and submitting to him, a<g ref="char:EOLhyphen"/>gainst all <hi>Feares, Cares, Doubts, Trials</hi> and <hi>Afflictions</hi> of every Day; <hi>For sufficient to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> day is the evil thereof.</hi>
@@ -200,7 +202,7 @@ trusting in him, and submitting to him, a<g ref="char:EOLhyphen"/>gainst all <hi
                      </gap>e your chiefest joy,</hi> and the <hi>Gospels Liberty</hi> before your own, and to mourn for the sins of the times as the Godly in <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> did.</p>
             </div>
             <div n="10" type="duty">
-               <pb facs="tcp:000116_0005_0FA029BA2560E8A0"/>
+               <pb facs="unknown:000116_0005_0FA029BA2560E8A0"/>
                <head>The tenth <hi>Duty.</hi>
                </head>
                <p>Get your hearts daily weaned from the World, and from those Creatures and Com<g ref="char:EOLhyphen"/>forts in it which are dearest and sweetest to you, as <hi>Wife, Children, Friends, Goods, Liberty, House,</hi> and <hi>Life,</hi> &amp;c.</p>
@@ -209,14 +211,14 @@ trusting in him, and submitting to him, a<g ref="char:EOLhyphen"/>gainst all <hi
       </front>
       <body>
          <div type="duties">
-            <pb facs="tcp:000116_0006_0FA029BAEAFCF1A0"/>
+            <pb facs="unknown:000116_0006_0FA029BAEAFCF1A0"/>
             <head>PRECEPTS FOR CHRISTIAN PRACTICE, Or the Rule of the New CREATVRE, To be daily observed by every Believer, in the practice of these ten following DUTIES.</head>
             <div n="1" type="duty">
                <head>The first Duty.</head>
                <p>Bee alwayes sensible of thy original corruption, and consider how it inclineth thee continually to all evil, and indisposeth thee to any good; groan under it and bewaile it as <hi>Paul</hi> did, <hi>Rom. 7.27. O wretched man that I am who shall deliver mee from the body of this death!</hi> Also take special notice of of your actual sin, or daily infirmities in thought, word, and deed; endeavour to make your peace with God before you go to bed.</p>
                <p>Which must be done these four wayes.</p>
                <p n="1">1. <seg rend="decorInit">B</seg>Y repenting and confessing your sins to God; work<g ref="char:EOLhyphen"/>ing your hearts to grief and sorrow for them by some such melting con<g ref="char:EOLhyphen"/>siderations as these. 1. Of
-<pb n="2" facs="tcp:000116_0007_0FA029BBC075D410"/>
+<pb n="2" facs="unknown:000116_0007_0FA029BBC075D410"/>
 the goodness of God to you. 2 Of the un<g ref="char:EOLhyphen"/>reasonableness and every way unprofitableness of sin; and 3. Of the great damage, pre<g ref="char:EOLhyphen"/>judice, and hurt that commeth to the Soul by sin.</p>
                <p n="2">2. By believing and casting your self wholly on Christs Righteousness for remission of sin, and for reconciliation with God, <hi>Rom.</hi> 3.22, 23, 24<g ref="char:punc">▪</g> 25 22. <hi>Even the righteousness of God, which is by Faith of Jesus Chr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -250,7 +252,7 @@ the goodness of God to you. 2 Of the un<g ref="char:EOLhyphen"/>reasonableness a
                </p>
             </div>
             <div n="2" type="duty">
-               <pb n="3" facs="tcp:000116_0008_0FA029BC6628FB60"/>
+               <pb n="3" facs="unknown:000116_0008_0FA029BC6628FB60"/>
                <head>The second Duty.</head>
                <p>Get your union with Christ and your interest in him cleared and confirmed to you daily more and more, that you are a branch in his vine, and a member in his body.</p>
                <p>This is done three wayes.</p>
@@ -262,7 +264,7 @@ the goodness of God to you. 2 Of the un<g ref="char:EOLhyphen"/>reasonableness a
                         <desc>•</desc>
                      </gap>eveth in the Son of God hath the witness in him<g ref="char:EOLhyphen"/>self,</hi> &amp;c.</p>
                <p>Secondly, by examining your heart upon what grounds you took Christ to be yours: The grounds are these five. 1. A sight and
-<pb n="4" facs="tcp:000116_0009_0FA029BDA22852E0"/>
+<pb n="4" facs="unknown:000116_0009_0FA029BDA22852E0"/>
 sense of your sins, as of the guilt, power, and punishment of them, and of your misery by them, <hi>Mat.</hi> 11.28. <hi>Come unto me all yee that labour and be heavy leaden, and I will give you rest.</hi>
                </p>
                <p n="2">2. Your want of Christ seen, and felt at your very heart, to Justifie, Sanctifie, Redeem, and save you, else you are utterly lost, and un<g ref="char:EOLhyphen"/>done everlastingly, <hi>Luk.</hi> 19.10. <hi>For the Son of man is come to seek and to save that which was lost.</hi>
@@ -270,7 +272,7 @@ sense of your sins, as of the guilt, power, and punishment of them, and of your 
                <p n="3">3. Gods free and general offer of Christ to any that will take him by Faith, <hi>Joh.</hi> 3.16. <hi>For God so loved the World that hee gave his only be<g ref="char:EOLhyphen"/>gotten Son, that whosoever believes in him should not perish, but have everlasting life.</hi> There are manifold promises to that purpose, and the grounds of all Gods offers and donations of Christ to the poor soul are free Grace, rich Mercy, undeserved Love, <hi>Ephes.</hi> 2.4, 5, 6, 7. <hi>But God who is rich in Mercy, for his great Love wherewith he loved us</hi>; 5. <hi>Even when wee were dead in sins hath quick<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ned us together with Christ (by grace yee are saved.)</hi> 6. <hi>And hath raised us up together, and made us sit together in Heavenly places in Christ Jesus</hi>; 7. <hi>That in the ages to come he might shew the exceeding riches of his grace in his kindness towards us.</hi> Titus 3, 4, 5, 6.
-<pb n="5" facs="tcp:000116_0010_0FA029BDEADE3288"/>
+<pb n="5" facs="unknown:000116_0010_0FA029BDEADE3288"/>
                   <hi>But after that the kindness and love of God our Saviour towards man appeared</hi>; 5. <hi>Not by works of righteousness which we <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> do<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -290,7 +292,7 @@ sense of your sins, as of the guilt, power, and punishment of them, and of your 
                      </gap>, nor covetous, nor drunkard, nor revilers, nor extortioners shall in<g ref="char:EOLhyphen"/>herit the kingdom of God.</hi> 11. <hi>Such were some of you: but yee are w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>shed, but yee are sanctified, but yee are justified in the name of the Lord Iesus, and by the spirit of our God.</hi> 1 Tim. 1.13 <hi>Paul</hi> was a <hi>Blasphemer, Persecutor,</hi> and yet ob<g ref="char:EOLhyphen"/>tained <hi>Mercy.</hi> Therefore why may not you? Thus the more clearly you discerne on what grounds you take Christ, the clearer will your
-<pb n="6" facs="tcp:000116_0011_0FA02A9B4527A808"/>
+<pb n="6" facs="unknown:000116_0011_0FA02A9B4527A808"/>
 title to Christ be evidenced to your own soul.</p>
                <p n="3">3<hi>ly.</hi> By surveying and observing in what manner you take Christ daily, which is.</p>
                <p n="1">1. Whether you do wholly renounce all opinion and conceit of your own righteous<g ref="char:EOLhyphen"/>ness and desert, <hi>Mark</hi> 8.34. <hi>Whosoever will come after me, le<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -301,7 +303,7 @@ title to Christ be evidenced to your own soul.</p>
                <p n="2">2. Whether you lay hold on Christ with an empty hand of faith, joyning nothing at all with Christ in the matter of salva<g ref="char:EOLhyphen"/>tion, as the holy Martyr at the stake cryed out, <hi>None but Christ, none but Christ.</hi>
                </p>
                <p n="3">3. Whether you finde the Father drawing your hearts after Christ, <hi>Ioh.</hi> 6.44. <hi>No man can come unto mee except the Father which hath
-<pb n="7" facs="tcp:000116_0012_0FA02A9BEC058BE8"/>
+<pb n="7" facs="unknown:000116_0012_0FA02A9BEC058BE8"/>
 sent me draw him, and I <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ill raise him up at the last day</hi>: Which is in hungring and panting desires that will never be satisfied without him; So that both the stream of your judge<g ref="char:EOLhyphen"/>ment, and affections run after him, as 1 <hi>Cor.</hi> 2. <hi>ver.</hi> 2. <hi>For</hi> I <hi>determined to to know nothing among you but Jesus Christ and him crucified</hi>
@@ -319,7 +321,7 @@ sent me draw him, and I <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </hi> 2.20. I <hi>am crucified with Christ, nevertheless</hi> I <hi>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>ve, yet not</hi> I, <hi>but Christ liveth in mee; and the life which</hi> I <hi>now live in the Flesh,
-<pb n="8" facs="tcp:000116_0013_0FA02A9CA60EBCA0"/>
+<pb n="8" facs="unknown:000116_0013_0FA02A9CA60EBCA0"/>
 I live by the Faith of the Son of God, who loved mee and gave himself for mee.</hi> Col 3.3. <hi>For yee are dead and your life is hid with Christ in God.</hi>
                </p>
                <p n="5">5. Whether you seek and wait for Christ (out of the sense of your spiritual want and penury in every ordinance, publick and pri<g ref="char:EOLhyphen"/>vate, Word, Sacraments<g ref="char:punc">▪</g> Prayer, Meditation and Conference, not as they are your own works of Sanctification, but as they are Gods Ordinances appointed on purpose, for the ma<g ref="char:EOLhyphen"/>nifestation and communication of Christ to the Soul. Frequent perusal hereof will clear to you your manner of taking Chr<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -338,7 +340,7 @@ I live by the Faith of the Son of God, who loved mee and gave himself for mee.</
                      </gap> of God.</hi>
                </p>
                <p>
-                  <pb n="9" facs="tcp:000116_0014_0FA02A9D733E9760"/>Thirdly, to resist and overcome all your corruptions and temptations, Rom. 8.37. <hi>In all these things we are more then conquerers through him that loved us.</hi>
+                  <pb n="9" facs="unknown:000116_0014_0FA02A9D733E9760"/>Thirdly, to resist and overcome all your corruptions and temptations, Rom. 8.37. <hi>In all these things we are more then conquerers through him that loved us.</hi>
                </p>
                <p>Fourthly, to undergo all your tryals and afflictions, <hi>Io<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -346,7 +348,7 @@ I live by the Faith of the Son of God, who loved mee and gave himself for mee.</
                </p>
                <p>Make your provision of strength and grace from Christ, every morning fetch from him so much as you shall have occasion to use all the day long, yea and upon all occasions that fall out in the day, go to Christ still for the wisdome that must direct you, for the ho<g ref="char:EOLhyphen"/>liness that must Character you for the shoulder that must bear your Crosses, for the strength that must resist your temptations, and for abi<g ref="char:EOLhyphen"/>lity to perform all Duties as Duties.</p>
                <p>To this end act your faith daily in the pro<g ref="char:EOLhyphen"/>mises of grace and strength, as <hi>Ioh.</hi> 1 16. <hi>Of his fulness have we all received, and grace for grace,</hi> Isai. 44 3. <hi>I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine off-spring,</hi> Ezek. 36.26, 27. <hi>A new heart also will I give you, and a new spirit will I put within you, and I will take away the stony heart out of your flesh, and</hi> I <hi>will give you an heart of flesh.</hi> 27. <hi>And</hi> I <hi>will put my Spirit
-<pb n="10" facs="tcp:000116_0015_0FA02A9E2DC85258"/>
+<pb n="10" facs="unknown:000116_0015_0FA02A9E2DC85258"/>
 within you, and cause you to walk in my statutes, and ye shall keep my judgements and do them,</hi> Zech. 10.12. <hi>And</hi> I <hi>will strengthen them in the Lord, and they shall walk up and down in his name, saith the Lord.</hi> These and the l<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ke pro<g ref="char:EOLhyphen"/>mises are security given you by God, that you shall receive grace in the use of the ordi<g ref="char:EOLhyphen"/>nances, which are as the conduit pipes or in<g ref="char:EOLhyphen"/>struments of conveying the same from Christ to you.</p>
@@ -367,7 +369,7 @@ within you, and cause you to walk in my statutes, and ye shall keep my judgement
                <p>Perform daily duties both in Family and Closet, especially these three, of <hi>Prayer Medita<g ref="char:EOLhyphen"/>tion</hi> and <hi>Reading;</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>o them with sincere in<g ref="char:EOLhyphen"/>tention, with heat of affection, and with diligence and delight. <hi>Jer 48.10</hi> Cursed be hee that doth the work of the Lord deceitfully, or negligently,
-<pb n="11" facs="tcp:000116_0016_0FA02A9F097A3D30"/>
+<pb n="11" facs="unknown:000116_0016_0FA02A9F097A3D30"/>
                   <hi>Mat. 1.14.</hi> But cursed be the deceiver which hath in his flock a male, and voweth and sacrificeth unto the Lord a corrupt thing: for I am a great King saith the Lord of Hosts, and my name is dreadful among the Heathen, <hi>1 Chron. 21.24.</hi> And King David said to Or<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -391,7 +393,7 @@ within you, and cause you to walk in my statutes, and ye shall keep my judgement
                      </gap>.</hi> 57.7<g ref="char:punc">▪</g> 8 9 <hi>My heart is fixed, O God my heart is fixed, I will sing and give praise: awake up my glory, awake Psaltery and harpe, I my self will awake early, I will praise thee O Lord.</hi>
                </p>
                <p>Thirdly be very real, serious, and substan<g ref="char:EOLhyphen"/>tial with God in them, endeavour to feel all duties at your heart, inliving, inlarging, in<g ref="char:EOLhyphen"/>flaming
-<pb n="12" facs="tcp:000116_0017_0FA02A9FB12F00E0"/>
+<pb n="12" facs="unknown:000116_0017_0FA02A9FB12F00E0"/>
 your affections, <hi>Deut.</hi> 4.29 <hi>Thou shal<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -474,7 +476,7 @@ your affections, <hi>Deut.</hi> 4.29 <hi>Thou shal<gap reason="illegible" resp="
                      </gap>,</hi> shall I b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> proud? then I shall be sure to fall, for pride goeth before destruction, and a
-<pb n="13" facs="tcp:000116_0018_0FA02AA06D2FA850"/>
+<pb n="13" facs="unknown:000116_0018_0FA02AA06D2FA850"/>
 haughty spirit before a fall, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>. 16.18. and God will account me for his enemy for God resi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -520,7 +522,7 @@ haughty spirit before a fall, <gap reason="illegible" resp="#PDCC" extent="1 wor
                   <hi>Thirdly,</hi> By applying the promises of mor<g ref="char:EOLhyphen"/>tification close to your hearts, as a plaist<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r to the sore, for subduing your iniquities, <hi>Mic.</hi> 7.19
-<pb n="14" facs="tcp:000116_0019_0FA02AA12EA16C78"/>
+<pb n="14" facs="unknown:000116_0019_0FA02AA12EA16C78"/>
                   <hi>He will turn again, he will have compassion upon us: he will subdue our iniquities, and thou wilt cast all their sins into the depth of the Sea,</hi> Rom. 6.14. <hi>For sin shall not have dominion over you, for ye are not under the L<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>w, but under Grace,</hi>
@@ -532,7 +534,7 @@ haughty spirit before a fall, <gap reason="illegible" resp="#PDCC" extent="1 wor
             <div n="6" type="duty">
                <head>The sixth Duty.</head>
                <p>Get your hearts strongly fixed on God by trusting in him, and submitting to him, against all Fears, Cares Doubts, Tryals, and Afflicti<g ref="char:EOLhyphen"/>ons of every day, for sufficient to the day is
-<pb n="15" facs="tcp:000116_0020_0FA02AA1ED1F77C8"/>
+<pb n="15" facs="unknown:000116_0020_0FA02AA1ED1F77C8"/>
 the evil thereof, <hi>Psal.</hi> 112, 7. <hi>He shall not be afraid of evil tidings, his heart is fixed, trusting in the Lord.</hi> 2 Sam. 15.26 <hi>But if he thus say<g ref="char:punc">▪</g> I have no delight in thee, behold here</hi> I <hi>am, let him do to me as seemeth good unto him.</hi> 1 Sam. 3.18. <hi>It is the Lord, let him do what seemeth him good.</hi> Mat. 6.34. <hi>Take therefore no thought for the morrow: for the morrow shall take thought for the things of it self: sufficient unto the day is the evil thereof.</hi>
                </p>
                <p>To this End,</p>
@@ -541,7 +543,7 @@ the evil thereof, <hi>Psal.</hi> 112, 7. <hi>He shall not be afraid of evil tidi
                <p n="2">2. Go hide, and lay up your self in God, run unto his name, for God is a rock of habi<g ref="char:EOLhyphen"/>tation, to which a poor soul may continually resort, yea God will give commandment to save all such as thus do come unto him, <hi>Psal.</hi> 71.3. <hi>Thou hast given Commandment to save me, thou art my rock and my fortress,</hi> 1 Pet. 4.19. <hi>Wherefore let them that suffer according to the will of God, commit the keeping of their souls to him in well-doing, as unto a faithful Creator.</hi>
                </p>
                <p n="3">
-                  <pb n="16" facs="tcp:000116_0021_0FA02AA65EFC3870"/>3. Especially commit that very thing to God whatsoever you desire to keep, or fear to sore, put it into his hands, 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <pb n="16" facs="unknown:000116_0021_0FA02AA65EFC3870"/>3. Especially commit that very thing to God whatsoever you desire to keep, or fear to sore, put it into his hands, 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>. 1.12. I <hi>know whom</hi> I <hi>have believed, and</hi> I <hi>am perswaded hee is able to keep that which I have committed unto him against that day</hi>: be it <hi>Life, Liberty, Name, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -591,7 +593,7 @@ the evil thereof, <hi>Psal.</hi> 112, 7. <hi>He shall not be afraid of evil tidi
                      </gap> sustain thee, he shall never suffer the righteous to be moved.</hi>
                </p>
                <p>Fourthly, Renew your Faith in those pro<g ref="char:EOLhyphen"/>mises
-<pb n="17" facs="tcp:000116_0022_0FA02AA864984170"/>
+<pb n="17" facs="unknown:000116_0022_0FA02AA864984170"/>
 every day<g ref="char:punc">▪</g> which most concern your present estate; and in promises fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>st of supplies, if you be in want, Psal. 34.8. <hi>O taste and see that the L<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -645,7 +647,7 @@ every day<g ref="char:punc">▪</g> which most concern your present estate; and 
                         <desc>•</desc>
                      </gap>
                      <g ref="char:EOLhyphen"/>hold,
-<pb n="18" facs="tcp:000116_0023_0FA02AAC2BA01740"/>
+<pb n="18" facs="unknown:000116_0023_0FA02AAC2BA01740"/>
 we account them happy which endure: ye have heard of the patience of Job, and have seen the end of the Lord, that the Lord is very p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>tiful, and of tender mercy.</hi> Rom. 8.28. <hi>And we know that all things work together for good to them that love God: to them who are called according to his purpose.</hi> Heb. 12.10. <hi>For they verily for a few dayes chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.</hi>
@@ -666,7 +668,7 @@ we account them happy which endure: ye have heard of the patience of Job, and ha
                <head>The seventh Duty.</head>
                <p>Get, and keep a savory relish continually of your Christian priviledges, wherewith you are invested as you are new Creatures in Christ.</p>
                <p>
-                  <pb n="19" facs="tcp:000116_0024_0FA02AAD614620A0"/>AS, first, Of your dignity, that you are the Sons of God<g ref="char:punc">▪</g> 1 <hi>Joh.</hi> 3.1, 2. <hi>Behold! what manner of love the Father hath bestowed upon us, that we should be called the Sons of God. Beloved, now are we the Sons of God, and it doth yet appear what we shall be; but we know that when he shall appear, we shall be like him, for we shall see him as he is.</hi> 2. Christs Brethren, <hi>Heb.</hi> 2.11. <hi>He is not ashamed to call them Brethren</hi>: but saith, <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="19" facs="unknown:000116_0024_0FA02AAD614620A0"/>AS, first, Of your dignity, that you are the Sons of God<g ref="char:punc">▪</g> 1 <hi>Joh.</hi> 3.1, 2. <hi>Behold! what manner of love the Father hath bestowed upon us, that we should be called the Sons of God. Beloved, now are we the Sons of God, and it doth yet appear what we shall be; but we know that when he shall appear, we shall be like him, for we shall see him as he is.</hi> 2. Christs Brethren, <hi>Heb.</hi> 2.11. <hi>He is not ashamed to call them Brethren</hi>: but saith, <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>.</hi> 20.17. <hi>Go unto my B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -698,7 +700,7 @@ we account them happy which endure: ye have heard of the patience of Job, and ha
                   <hi>Thirdly,</hi> of your victory, that you are through Christ more then Conquerors over all the World of Creatures, 1 <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>.</hi> 5.4. <hi>For whatsoever
-<pb n="20" facs="tcp:000116_0025_0FA02AAFD07B15F0"/>
+<pb n="20" facs="unknown:000116_0025_0FA02AAFD07B15F0"/>
 is born of God, overcommeth the</hi> World, <hi>and this is the Victory overcommeth the</hi> World, <hi>even our Faith.</hi> Rom. 8.15. <hi>For ye have not re<g ref="char:EOLhyphen"/>ceived the Spirit of bondage again <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>; but yee have received the Sp<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -750,7 +752,7 @@ is born of God, overcommeth the</hi> World, <hi>and this is the Victory overcomm
                      </gap>tion be without covetousness, and be content w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>th such things as yee have; for he hath said, I will never have thee, nor forsake thee.</hi> ver. 6. <hi>So that we may</hi> boldly say, <hi>the Lord is my</hi> help, <hi>and I will not
-<pb n="21" facs="tcp:000116_0026_0FA02AB10E7E6B30"/>
+<pb n="21" facs="unknown:000116_0026_0FA02AB10E7E6B30"/>
 fear what man shall do unto me.</hi>
                </p>
                <p>Fif<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -779,7 +781,7 @@ fear what man shall do unto me.</hi>
                <p>Get your hearts affect<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d with all these as being yours. Chew and suck them by se<g ref="char:EOLhyphen"/>rious Meditation work<g ref="char:punc">▪</g> and warme them on your hearts by close application, rubbing them
-<pb n="22" facs="tcp:000116_0027_0FA02AB21D5402C8"/>
+<pb n="22" facs="unknown:000116_0027_0FA02AB21D5402C8"/>
 into your affections. Oppose these your spi<g ref="char:EOLhyphen"/>rituall priviledges to all your temporall pres<g ref="char:EOLhyphen"/>sures, setting the one against the other; as your heavenly friends to your earthly foes, your high dignity in Christ, to your low estate and meanness in outward condition, your wealth above to your want below, your fu<g ref="char:EOLhyphen"/>ture joyes and rest to your present troubles and sorrows. This will make you not onely patient under the afflictions of this life, <hi>Rom.</hi> 12.12. <hi>Rejoycing in hope, patient in tribula<g ref="char:EOLhyphen"/>tion, continuing in prayer</hi>; but also joyfull in them, as <hi>Rom.</hi> 5 3. <hi>And not onely so, but glory in tribulations also; knowing that tribulation worketh patience</hi>; and triumphant over them, as 1 <hi>Cor.</hi> 15.55. <hi>O death where is thy sting? O grave where is thy victory?</hi> Thus did the Apostles <hi>Rom.</hi> 8.18. <hi>For I reckon that the sufferings of this present time, are not worthy to be compared w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>th the glory which shall be revealed in us.</hi> 2 Cor. 4.17. <hi>For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory.</hi> Verse 18. <hi>While wee look not at the things which are seen, but at the things which are not s<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -788,7 +790,7 @@ into your affections. Oppose these your spi<g ref="char:EOLhyphen"/>rituall priv
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>y honour, and dishonour, by evill report, and
-<pb n="23" facs="tcp:000116_0028_0FA02AB35532E140"/>
+<pb n="23" facs="unknown:000116_0028_0FA02AB35532E140"/>
 good report, as decievers and yet true.</hi> ver. 9. <hi>As unknown and yet well known; as dying and behold we live; as chastened, and not killed.</hi> ver. 10 <hi>as sorrowful, yet alway<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> rejoycing; as poor yet making many rich; as having nothing, and yet possessing all things.</hi>
@@ -807,7 +809,7 @@ good report, as decievers and yet true.</hi> ver. 9. <hi>As unknown and yet well
                </p>
             </div>
             <div n="8" type="duty">
-               <pb n="22" facs="tcp:000116_0029_0FA02AB3DC57EF88"/>
+               <pb n="22" facs="unknown:000116_0029_0FA02AB3DC57EF88"/>
                <head>The eighth Duty.</head>
                <p>Sanctifie the Lord in your hearts daily, 1 <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -850,7 +852,7 @@ good report, as decievers and yet true.</hi> ver. 9. <hi>As unknown and yet well
                      </gap>ous promises, that by these you might be partakers of the divine Na<g ref="char:EOLhyphen"/>ture.</hi>
                </p>
                <p>Secondly, Labour to be affected with all the works of God, as first to behold, and ad<g ref="char:EOLhyphen"/>mire the wisdome of God in the Creatures, Psal. 136.5. <hi>To him that by wisdome made
-<pb n="23" facs="tcp:000116_0030_0FA02AB40DEE48C0"/>
+<pb n="23" facs="unknown:000116_0030_0FA02AB40DEE48C0"/>
 the Heavens; for his mercy endureth for ever.</hi> 2. To see<g ref="char:punc">▪</g> and taste Gods goodness in every mercy, Psal. 34 8. <hi>O <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>aste and see that the Lord is good; <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -894,7 +896,7 @@ the Heavens; for his mercy endureth for ever.</hi> 2. To see<g ref="char:punc">�
                      </gap> away the stony Heart out of your flesh, and</hi> I will <hi>give you an heart of Flesh.</hi>
                </p>
                <p>Fourthly, Apply promises of particular
-<pb n="26" facs="tcp:000116_0031_0FA02AB64EACA720"/>
+<pb n="26" facs="unknown:000116_0031_0FA02AB64EACA720"/>
 affections: as first of love, <hi>Deut.</hi> 30.6. <hi>And the Lord thy</hi> God will <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -919,7 +921,7 @@ affections: as first of love, <hi>Deut.</hi> 30.6. <hi>And the Lord thy</hi> God
                <p>Get a publick Spirit, first, to minde the things of Jesus Christ, as naturally as if they were your own, Phil. <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>3.20. <hi>For I
-<pb n="27" facs="tcp:000116_0032_0FA02AB806441488"/>
+<pb n="27" facs="unknown:000116_0032_0FA02AB806441488"/>
 have no man like minded, who will naturally care for your estate.</hi> ver. 21. <hi>For all seek their own, not the things which are Jesus Christs.</hi> Secondly, to look on the things of others, and prefer<g ref="char:punc">▪</g> first, Jerusalems welfare before your chiefest joy, <hi>Psal.</hi> 137.5, 6. <hi>If</hi> I <hi>forget thee O Jerusalem, let my right hand forget her cunning.</hi> ver. 6, <hi>If</hi> I <hi>do not remember thee, let my tongue cleave to the roof of my mouth, if I prefer not Jerusalem above my chiefest joy.</hi> And secondly, the Gospels liberty before your own, as <hi>Paul</hi> did: And thirdly, to mourn for the sins of the times, as the Godly in Jerusalem did, <hi>Ezek.</hi> 9.4. <hi>And the Lord said unto him, go through the midst of the City, through the midst of Jerusalem; and set a mark upon the foreheads of the men that sigh and that cry for all the abomiations that be done in the midst thereof.</hi>
                </p>
                <p>Especially lay to heart,</p>
@@ -927,7 +929,7 @@ have no man like minded, who will naturally care for your estate.</hi> ver. 21. 
                         <desc>•</desc>
                      </gap>habods,</hi> 1 Sam. 4.21.</p>
                <p n="2">2. The afflictions of <hi>Joseph,</hi> Amos 6.6
-<pb n="28" facs="tcp:000116_0033_0FA02ABA5755E080"/>
+<pb n="28" facs="unknown:000116_0033_0FA02ABA5755E080"/>
                   <hi>That drink wine in bowles, and annoint themselves with the chief ointment; but they are not grieved for the affliction of</hi> Joseph: the sufferings of Gods servants, whether Ministers or People. O sympathize with them, <hi>Heb.</hi> 13.3. <hi>Re<g ref="char:EOLhyphen"/>member them that are in binds, as bound with them; and them which suffer adversity, as being your selves also in the body.</hi> Neh. 1.4. <hi>And it came to pass, when I heard these words, that</hi> I <hi>sate down and wept, and mourned certain dayes; and fasted and prayed before the God of Heaven:</hi> Labour to feel their trouble and sorrow at your very heart; and pray earnestly for them, as the Church did for <hi>Peter,</hi> Act. 12.5. Peter <hi>therefore was kept in prison, but Prayer was made without ceasing of the Church to God for him.</hi>
                </p>
                <p>Thirdly, The signes of the times, which hypocrites cannot discerne (though they be well versed in the face of the Sky) <hi>to wit,</hi> the sad symptomes, and presages of approaching Judgements: as first, The commonness of sin; for all sorts transgress in all kinds of open sin<g ref="char:EOLhyphen"/>fulness with a high hand against the light of Nature, and the means of grace, <hi>Ezek.</hi> 12.3. <hi>Son of Man, prepare thee stuffe for removing, and remove by day in their sight; and thou shalt remove from thy place unto another place in their sigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -935,7 +937,7 @@ have no man like minded, who will naturally care for your estate.</hi> ver. 21. 
                      </gap>; it may be they will consider though they be a rebellious house.</hi>
                </p>
                <p n="2">
-                  <pb n="29" facs="tcp:000116_0034_0FA02ABAD2356080"/>2. Contempt of Gods Ordinances, misusing of his Ministers, 2 <hi>Chron.</hi> 36.16. <hi>But they mocked the Messengers of God, and despised his words, and misused his Prophets; until the wrath of the Lord arose against his people, till there was no remedy.</hi>
+                  <pb n="29" facs="unknown:000116_0034_0FA02ABAD2356080"/>2. Contempt of Gods Ordinances, misusing of his Ministers, 2 <hi>Chron.</hi> 36.16. <hi>But they mocked the Messengers of God, and despised his words, and misused his Prophets; until the wrath of the Lord arose against his people, till there was no remedy.</hi>
                </p>
                <p n="3">3. Departure of Gods glory from his house, <hi>Ezek.</hi> 9.3. <hi>And the glory of the God of Israel was gone up from the Cherub whereupon he was,</hi> &amp;c.</p>
                <p n="4">4. Incorrigibleness after former, and under present judgements, <hi>Lev.</hi> 26. from ver. 14, 15, 16. <hi>But if ye will not hearken unto me, and will not do all these Commandments, and if ye shall despise my Statutes, or if your soul abhorre my judgements; so that ye will not do</hi> all <hi>my Commandments; but that ye break my Cove<g ref="char:EOLhyphen"/>nants</hi>: I <hi>also</hi> will <hi>do this unto you</hi>
@@ -945,7 +947,7 @@ have no man like minded, who will naturally care for your estate.</hi> ver. 21. 
                      </gap> to come.</hi>
                </p>
                <p n="6">
-                  <pb n="30" facs="tcp:000116_0035_0FA02ABE1A5E6978"/>6. The Vials of Gods wrath powred on the Churches beyond the Seas, Jer. 7.12. <hi>But go ye now unto my place which in</hi> Shiloh, <hi>where</hi> I <hi>set my Name at the first, and see what</hi> I <hi>have done unto it<g ref="char:punc">▪</g> for the wickedness of my people</hi> Israel.</p>
+                  <pb n="30" facs="unknown:000116_0035_0FA02ABE1A5E6978"/>6. The Vials of Gods wrath powred on the Churches beyond the Seas, Jer. 7.12. <hi>But go ye now unto my place which in</hi> Shiloh, <hi>where</hi> I <hi>set my Name at the first, and see what</hi> I <hi>have done unto it<g ref="char:punc">▪</g> for the wickedness of my people</hi> Israel.</p>
                <p n="7">7. The inundation of spiritual judgements, as a spirit of Errour, Superstition, Apostasie, <hi>&amp;c.</hi> which do commonly end in temporal plagues, Isai. 6.10, 11. <hi>Make the heart of this people fat, and make their ears heavy, and shut their eyes: lest they see with their eyes, and hear with their ears, and understand with their heart, and convert and be healed.</hi> ver. 11. <hi>Then said</hi> I, <hi>Lord how long? and he answered, until the Cities be wasted without inhabitant, and the houses with<g ref="char:EOLhyphen"/>out man, and the Land be utterly desolate.</hi>
                </p>
                <p>Now the Holy Ghost is a publike Spirit breathing and acting in all the members of the mystical body of Christ: pray for it, <hi>Luk.</hi> 11.13. If <hi>ye then, being evil, know how to give good gifts unto your Children; how much more shall your heavenly Father give the Holy Ghost unto them that as<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -957,7 +959,7 @@ have no man like minded, who will naturally care for your estate.</hi> ver. 21. 
                </p>
             </div>
             <div n="10" type="duty">
-               <pb n="31" facs="tcp:000116_0036_0FA02ABE451ADAB0"/>
+               <pb n="31" facs="unknown:000116_0036_0FA02ABE451ADAB0"/>
                <head>The tenth Duty.</head>
                <p>Get your heart daily weaned from the World, and from those creatures and comforts in it, which are dearest and sweetest to you. As Wife, Children, Friends, Goods, Liberty, House, Life. This Christ requires of those that follow him, <hi>Luk.</hi> 14 26, 27. If <hi>any man come to me, and hate not his Father and Mother, and Wife and Children, and Brethren and Sisters; yea and his own life also, he cannot be my Disciple.</hi> 27. <hi>And whosoever doth not bear his Cross and come after me, cannot be my Dis<g ref="char:EOLhyphen"/>ciple.</hi> Mark 10.29, 30. <hi>Verily, I say unto you, there is no man hath left House, or Brethren, or Sisters, or Father, or Mother, or Wife, or Children, or Lands for my sake, and the Gospels; but he shall receive an hundred fold now in this time, Houses, and Brethren, and Sisters, and Mo<g ref="char:EOLhyphen"/>thers, and Children, and Lands with persecutions, and in the World to come eternal Life.</hi> This will prepare you either to suffer, or to dy when God calls you to it.</p>
                <p>To this end consider seriously;</p>
@@ -966,7 +968,7 @@ have no man like minded, who will naturally care for your estate.</hi> ver. 21. 
                   </gap>. <hi>There is one alone, and there is not a second for he hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>either Childe nor
-<pb n="32" facs="tcp:000116_0037_0FA02ABE7B63A0E8"/>
+<pb n="32" facs="unknown:000116_0037_0FA02ABE7B63A0E8"/>
 Brother; yet is there no end of all his labour, neither is his eye satisfied with riches; neither saith he for whom do I labour, and berieve my Soul of good? this is also vanity, yea, it is a sore travail.</hi> and chap. 5.10. <hi>He that loveth silver, shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity</hi>: you soon grow weary of them, or glutted with them, so that you desire some new delights, or more of the old, or some over again.</p>
                <p>
                   <hi>Secondly,</hi> nor can they sanctifie you, but will expose you oft to many lusts, temptations, distractions, yea to a spirit of the World, and they will hinder you from following of Christ, 1 <hi>Tim.</hi> 6 9, 10. <hi>But they that will be rich,</hi> fall <hi>into temptation and a snare, and into many foolish and hurtful Lusts, which drown men in destruction and perdition.</hi> 10. <hi>For the love of <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -974,7 +976,7 @@ Brother; yet is there no end of all his labour, neither is his eye satisfied wit
                      </gap>ney is the root of</hi> all <hi>evil; which whilst some coveted after, they have erred from the Faith, and pierced them<g ref="char:EOLhyphen"/>selves thorow with many sorrows.</hi> Mat. 19.21, 22 <hi>Jesus said unto the young man, if thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in Heaven; and come and follow me.</hi> 22. <hi>But when the young man heard that saying, he went a way sorrowful, for he had great possessions.</hi>
                </p>
                <p>
-                  <pb n="33" facs="tcp:000116_0038_0FA02ABF5970DCF8"/>Thirdly, nor can they save you from Gods wrath, from death and judgement, <hi>Prov.</hi> 11.4. <hi>Riches profit not in the day of wrath; but righte<g ref="char:EOLhyphen"/>ousness delivereth from death.</hi>
+                  <pb n="33" facs="unknown:000116_0038_0FA02ABF5970DCF8"/>Thirdly, nor can they save you from Gods wrath, from death and judgement, <hi>Prov.</hi> 11.4. <hi>Riches profit not in the day of wrath; but righte<g ref="char:EOLhyphen"/>ousness delivereth from death.</hi>
                </p>
                <p>Fourthly, the wicked whose portion is only in this World, have often the greatest share of them. <hi>Iob.</hi> 21.7. to the 14. <hi>Wherefore do the wicked live, become old yea are mighty in power?</hi> 8. <hi>Their seed is established in their sight with them, and their off-spring before their eyes.</hi> 9 <hi>Their houses are safe from fear, neither is the rod of God upon them.</hi> 10, <hi>Their</hi> Bull <hi>gendreth and faileth not; their Cow calveth, and casteth not her ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -986,7 +988,7 @@ Brother; yet is there no end of all his labour, neither is his eye satisfied wit
                      </gap>, nor are given in marriage; but are as the Angels of God in Heaven.</hi> We shall hunger no more, neither thirst any <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, <hi>Rev.</hi> 7.16. <hi>They shall hunger
-<pb n="34" facs="tcp:000116_0039_0FA02ACAD533FA80"/>
+<pb n="34" facs="unknown:000116_0039_0FA02ACAD533FA80"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, neither thirst any more, neither shall the Sun light on them, nor any heat.</hi> We shall live by the a sufficient spirit of God, which never needs refreshing; we shall be clothed with long white Robes of immortality, <hi>Rev.</hi> 7.9. <hi>After this I beheld, and loe, a great multi<g ref="char:EOLhyphen"/>tude, which no man could number of all Nati<g ref="char:EOLhyphen"/>ons, and Kindreds, and People, and Tongues stood before the Throne, and before the Lambe, clothed with white robes, and palmes in their hands</hi>; In a word, when we come to Heaven the place of Gods Habitation, we shall enjoy the face, and beatifical presence of the most glorious Jeho<g ref="char:EOLhyphen"/>vah, blessed for ever, as an object, wherein all the powers of our souls will be satisfied with ineffable delight; and God will be unto us everlastingly all in all, 1 <hi>Cor,</hi> 15.28. <hi>And when all things shall be subdued unto him, then shall the Son him self also be subject unto him that put all things under him, that God may be all in all.</hi>
